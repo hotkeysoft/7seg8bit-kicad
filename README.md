@@ -1,4 +1,10 @@
 # Two-digit seven-segment HEX indicator for 8 bit values
+Rev B August 2019
+  - Added programming header
+  - Removed dim mode
+
+*Note: Never produced*
+
 Rev A July 2019
 
 - ATmega328P microcontroller running at 8MHz (internal clock)
