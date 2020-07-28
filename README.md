@@ -1,4 +1,4 @@
-# Two-digit seven-segment HEX indicator for 8 bit values
+# Two-digit seven-segment indicator for 8 bit values
 ### Rev C August 2019
   - Reverse input protection
   - Real decimal mode w/four digits
